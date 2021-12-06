@@ -1,0 +1,1 @@
+This repo contains the solution to a generalization of the problem coming from a commissioned study. This study is about the choice of the ticket price and the number of sessions for a concert held in my town.
