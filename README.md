@@ -6,4 +6,4 @@ This repo contains the solution to a generalization of the problem coming from a
 ### Project organization
 The project is completely developed in Python and it is divided into two main parts: 
 1. data_distribution: implementation of a command-line-based generator of synthetic data samples with specific distributions; normal distribution is implemented at the moment, more distributions will be implemented as they are needed
-2. problem: proper solution of the commissioned problem
+2. problem: proper solution of the commissioned problem (in development phase, so not published)
